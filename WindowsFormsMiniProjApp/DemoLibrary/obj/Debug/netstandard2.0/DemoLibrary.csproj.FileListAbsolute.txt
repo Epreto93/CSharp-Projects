@@ -1,0 +1,9 @@
+C:\Users\Elzani\source\repos\CoreyTuts\WindowsFormsMiniProjApp\DemoLibrary\bin\Debug\netstandard2.0\DemoLibrary.deps.json
+C:\Users\Elzani\source\repos\CoreyTuts\WindowsFormsMiniProjApp\DemoLibrary\bin\Debug\netstandard2.0\DemoLibrary.dll
+C:\Users\Elzani\source\repos\CoreyTuts\WindowsFormsMiniProjApp\DemoLibrary\bin\Debug\netstandard2.0\DemoLibrary.pdb
+C:\Users\Elzani\source\repos\CoreyTuts\WindowsFormsMiniProjApp\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.csprojAssemblyReference.cache
+C:\Users\Elzani\source\repos\CoreyTuts\WindowsFormsMiniProjApp\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.AssemblyInfoInputs.cache
+C:\Users\Elzani\source\repos\CoreyTuts\WindowsFormsMiniProjApp\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.AssemblyInfo.cs
+C:\Users\Elzani\source\repos\CoreyTuts\WindowsFormsMiniProjApp\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Elzani\source\repos\CoreyTuts\WindowsFormsMiniProjApp\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.dll
+C:\Users\Elzani\source\repos\CoreyTuts\WindowsFormsMiniProjApp\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.pdb
