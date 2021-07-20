@@ -1,1 +1,1 @@
-C# demo projects ands apps
+C# demo projects and apps
