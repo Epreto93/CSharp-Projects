@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cb30Gjw8H8CCM2Jm500qqpk8ZKtM+GKZ+YM6z66sviBAwJcXWB7Ol2mGL9kALaBhymjxhQmGOmF5fzpvFlVKEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Elzani\\source\\repos\\WpfAppMiniProjectApp\\WpfAppMiniProject\\WpfAppMiniProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elzani\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
