@@ -1,0 +1,1 @@
+Example Winforms application that takes person's name, surname, and addresses. Can be modified to store information in a database.
